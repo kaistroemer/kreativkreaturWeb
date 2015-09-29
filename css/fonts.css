@@ -1,0 +1,120 @@
+/**** MADRAS ****/
+
+@font-face {
+    font-family: 'Madras';
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/madrasregular-webfont.eot');
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/madrasregular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/madrasregular-webfont.woff') format('woff'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/madrasregular-webfont.ttf') format('truetype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/madrasregular-webfont.svg#madras_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'Madras Italic';
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/madrasregularitalic-webfont.eot');
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/madrasregularitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/madrasregularitalic-webfont.woff') format('woff'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/madrasregularitalic-webfont.ttf') format('truetype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/madrasregularitalic-webfont.svg#madrasregular_italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+
+
+@font-face {
+    font-family: 'Madras Bold';
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/madrasbold-webfont.eot');
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/madrasbold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/madrasbold-webfont.woff') format('woff'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/madrasbold-webfont.ttf') format('truetype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/madrasbold-webfont.svg#madrasbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'Madras Bold Italic';
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/madrasbolditalic-webfont.eot');
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/madrasbolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/madrasbolditalic-webfont.woff') format('woff'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/madrasbolditalic-webfont.ttf') format('truetype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/madrasbolditalic-webfont.svg#madrasbold_italic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+
+}
+
+
+@font-face {
+    font-family: 'Madras Extra Bold';
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/madrasextrabold-webfont.eot');
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/madrasextrabold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/madrasextrabold-webfont.woff') format('woff'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/madrasextrabold-webfont.ttf') format('truetype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/madrasextrabold-webfont.svg#madrasextra_bold_italic') format('svg');
+    font-weight: bolder;
+    font-style: normal;
+
+}
+
+
+/**** Argent CF ****/
+
+
+@font-face {
+    font-family: 'ArgentCF';
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-regular-webfont.eot');
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-regular-webfont.woff') format('woff'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-regular-webfont.ttf') format('truetype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-regular-webfont.svg#madras_regularregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'ArgentCF Italic';
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-regularitalic-webfont.eot');
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-regularitalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-regularitalic-webfont.woff') format('woff'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-regularitalic-webfont.ttf') format('truetype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-regularitalic-webfont.svg#madrasregular_italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+@font-face {
+    font-family: 'ArgentCF Demi';
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-demibold-webfont.eot');
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-demibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-demibold-webfont.woff') format('woff'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-demibold-webfont.ttf') format('truetype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-demibold-webfont.svg#madras_regularregular') format('svg');
+    font-weight: bold;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'ArgentCF Demi Italic';
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-demibolditalic-webfont.eot');
+    src: url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-demibolditalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-demibolditalic-webfont.woff') format('woff'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-demibolditalic-webfont.ttf') format('truetype'),
+         url('http://testserv.kreativkreatur.de/prepage/fonts/argentcf-demibolditalic-webfont.svg#madrasregular_italic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+
+}
+
